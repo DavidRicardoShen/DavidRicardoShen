@@ -1,8 +1,9 @@
 # Hi there 👋
 
-##Make sure it’s public and initialize it with a README to get started.
--☑ 摸鱼
--🔜 To be continued
+## Make sure it’s public and initialize it with a README to get started.
+
+- ☑ 摸鱼
+- 🔜 To be continued
 
 <!--
 **DavidRicardoShen/DavidRicardoShen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
