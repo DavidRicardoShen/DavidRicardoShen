@@ -42,7 +42,6 @@ int main(){
 |sdfd|sdf|
 
 $$
-
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix} 
 \mathbf{i} & \mathbf{j} & \mathbf{k} \\
 \frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
